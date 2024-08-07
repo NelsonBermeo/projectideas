@@ -1,0 +1,19 @@
+Project 1 Coding Practice Game ---------------------------------------------------------- 
+
+Problem: I have been coding this summer brushing up on dsa and so everyday i do an hour of practice with a randomized prompt like: implement simple backtracking with array, implement selection sort, implement linked list. But doing this is kind of lame. 
+Solution: Make this concept into a game where the web app would have a code compiler and ask randomized prompts that the user would put in like the examples i stated. And you could like have a stats page, itd motivating to see a stats page like woah nelson you did 100 hours of pratice nice work, you can flex your grind, maybe you can get coins and decorate a character with clothes and flex that, you can unlock like in person meetup codes possibilities are endless. The idea is to insentivize practice with some sort of reward. 
+
+Project 2 Website For Meeting Others ----------------------------------------------------------
+My second idea and third idea are really similar they just cater to different topics. Basically a blog posting service that you can log into with school account and either post about your deep challenges in life like depression or social media addiction, or divorsed parents whatever and either with your name or anonymously and someone else could reach out and we both can talk through that shit.
+Or basically the same thing but with making friends like a post would be hey i like naruto does anyone else like naruto lets be friends. This is a good app because schools are so big its impossible to know if someone else likes naruto you cant just ask everyone hey do you like naruto until you find a friend. This can also help introverted people ease into a friendship by first online messaging then meeting in person and this is all safe because everyone goes to the same school.
+
+Project 3 Webscrapping Anything ----------------------------------------------------------
+Also, i webscrapping is pretty cool, itd be nice to webscrap linked in profles from across the school and give more digestible information on the people around, maybe hmm, or webscrap your finances or import csvs bc banks let you access that idk how to webscrap tho lol 
+
+Project 4 Financial Budget app
+----------------------------------------------------------
+My mother also struggles with keeping up with her finances, but she doesnt trust giving her information to budget apps like copilot which possibly uses webscrapping to get the data idk, but csv files are given by banks maybe we can use that and make a co-pilot clone (google the budget app)
+
+Project 5 Career Paths 
+----------------------------------------------------------
+new idea: a map of peoples career. Coming into cs idk anything or any of the opportunities I know now, if I did id have done this all earlier lol. This would be a web app that would basically be a blog, but everyone can only make one post and each post would just be a long story about their life and pursuits during their career with lots of general advice. Noobs can search like keywords or there can be a top ranking with likes and people can look at those. Idk i think thatd be neat
